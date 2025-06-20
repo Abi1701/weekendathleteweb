@@ -25,7 +25,7 @@
 .container {
 	position: relative;
 	min-height: 100vh;
-	background-image: url('/weekendathlete/src/assets/background.jpg');
+	background-image: url('/src/assets/background.jpg');
 	background-size: cover;
 	background-position: center;
 	color: #e7e8cd;
