@@ -17,9 +17,35 @@
 		</main>
 	</div>
 </section>
+<section class="sectionNews">
+	<h1>MEDIA TALK!</h1>
+	<div class="cardContainer">
+		<a href="https://www.liputan6.com/bola/read/6037433/bawa-fun-football-ke-level-internasional-weekend-athlete-lakoni-laga-tandang-di-singapura?page=3&fbclid=PAZXh0bgNhZW0CMTEAAadyWbNF0IXt5-nDT18hr6NHy4Y6FoGWws8fWeNk-lm4GRSRfMhxArATDMtCyw_aem_k-Am1jTdMDdkAoASnHHuCQ"><div class="card">
+    <div class="card-image"><img class="cardImg" src="/src/assets/liputan6.jpg" alt=""></div>
+    <div class="category"> Liputan 6 </div>
+    <div class="heading"> Bawa Fun Football ke Level Internasional, Weekend Athlete Lakoni Laga Tandang di Singapura
+        <div class="author"> By <span class="name">Theresia Melinda Indrasari</span><br> 29 Mei 2025</div>
+    </div>		
+		</div></a>
+		<a href="https://sport.detik.com/sepakbola/gila-bola/d-7936294/komunitas-fun-football-asal-ri-go-internasional-lawan-singapura?fbclid=PAZXh0bgNhZW0CMTEAAafMiRk8A2sgA9ync3uK-KWtkJdGuhtqzqg1h2pIqw4blLNLXUltjQTtuLnmag_aem_yi7O9pZMzJgXPF8hwqW3mA"><div class="card">
+    <div class="card-image"><img class="cardImg" src="/src/assets/detiksport.jpg" alt=""></div>
+    <div class="category"> Detik Sport </div>
+    <div class="heading"> Komunitas Fun Football asal RI Go Internasional Lawan Singapura 
+			<div class="author"> By <span class="name">Bayu Baskoro</span> 28 Mei 2025</div>
+    </div>		
+		</div></a>
+		<a href="https://www.bolasport.com/read/314256094/tim-fun-football-indonesia-tur-asia-jajal-lawan-dari-singapura?page=all&fbclid=PAZXh0bgNhZW0CMTEAAad34WCn8Mx-d0ai9pBLBrT-LLKT4PTKvrPrAxHzTe3VeduXhoyYelVccplmvQ_aem_ZjefALagZtiDJp934LMTsw"><div class="card">
+    <div class="card-image"><img class="cardImg" src="/src/assets/bolasport.jpg" alt=""></div>
+    <div class="category"> BolaSport.com </div>
+    <div class="heading"> Tim Fun Football Indonesia Tur Asia, Jajal Lawan dari Singapura 
+			<div class="author"> By <span class="name"> Mochamad Hary Prasetya</span><br> 28 Mei 2025</div>
+    </div>		
+		</div></a>
+	</div>
+</section>
 <section>
 	<div class="container2">
-		<h1>schedule</h1>
+		<h1>SCHEDULE</h1>
 		<div class="scheduleContainer">
 			<div class="info">
     <div class="info__icon">
